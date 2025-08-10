@@ -1,0 +1,25 @@
+{
+  "name": "playwright-ts-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/d3-shape": "^3.1.7",
+    "allure-playwright": "^3.3.3",
+    "playwright": "^1.54.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@allurereport/static-server": "^3.0.0-beta.16",
+    "@allurereport/web-commons": "^3.0.0-beta.16",
+    "d3-shape": "^3.2.0"
+  }
+}

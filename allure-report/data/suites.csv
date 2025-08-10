@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6773","Search flight on BlazeDemo","Chromium","Sun Aug 10 20:26:01 IST 2025","passed","Sun Aug 10 20:26:08 IST 2025","","blazedemo\flightBooking.spec.ts","",""
+"","5000","Login to Saucedemo with valid credentials","Firefox","Sun Aug 10 20:26:01 IST 2025","passed","Sun Aug 10 20:26:06 IST 2025","","saucedemo\login.spec.ts","",""
+"","2323","Search flight on BlazeDemo","WebKit","Sun Aug 10 20:26:09 IST 2025","passed","Sun Aug 10 20:26:11 IST 2025","","blazedemo\flightBooking.spec.ts","",""
+"","5466","Login to Saucedemo with valid credentials","Chromium","Sun Aug 10 20:26:01 IST 2025","passed","Sun Aug 10 20:26:06 IST 2025","","saucedemo\login.spec.ts","",""
+"","1262","Login to Saucedemo with valid credentials","WebKit","Sun Aug 10 20:26:10 IST 2025","passed","Sun Aug 10 20:26:11 IST 2025","","saucedemo\login.spec.ts","",""
+"","5277","Search flight on BlazeDemo","Firefox","Sun Aug 10 20:26:01 IST 2025","passed","Sun Aug 10 20:26:06 IST 2025","","blazedemo\flightBooking.spec.ts","",""
