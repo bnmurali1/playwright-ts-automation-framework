@@ -31,7 +31,7 @@ Public demo applications are used to ensure **safe & legal automation**:
 
 ## 📂 Project Structure
 
-
+```text
 playwright-ts-framework/
 │
 ├── playwright.config.ts # Playwright test runner config
@@ -52,6 +52,7 @@ playwright-ts-framework/
 ├── fixtures/ # Test data & reusable setup
 ├── utils/ # Utility functions (e.g., logger)
 └── reports/ # Test reports output
+```
 
 ▶️ Running Tests
 
